@@ -1,4 +1,4 @@
-# Glowing Button Animation
+# Neon Glowing Buttons 
 
 This project demonstrates a glowing button effect using HTML and CSS. It features three buttons with different hover effects and a sleek glowing design.
 
@@ -36,6 +36,10 @@ This project demonstrates a glowing button effect using HTML and CSS. It feature
   - **First button**: Glows cyan.
   - **Second button**: Glows yellow.
   - **Third button**: Glows pink.
+ 
+## Contribution
+
+Feel free to fork this repository, raise issues, or submit pull requests to add features or improve the design.
 
 
 
